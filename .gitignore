@@ -10,3 +10,10 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
